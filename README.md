@@ -1,9 +1,9 @@
 # Programming Resources
 
-[WPILib Docs (Official FRC Library & Docs)](https://docs.wpilib.org/en/latest/)
-[WPILib Java API](https://first.wpi.edu/wpilib/allwpilib/docs/release/java/index.html)
-[WPILib Java Examples](https://docs.wpilib.org/en/stable/docs/software/examples-tutorials/wpilib-examples.html)
-[Discussion Forum Focused on FRC](https://www.chiefdelphi.com/)
+- [WPILib Docs (Official FRC Library & Docs)](https://docs.wpilib.org/en/latest/)
+- [WPILib Java API](https://first.wpi.edu/wpilib/allwpilib/docs/release/java/index.html)
+- [WPILib Java Examples](https://docs.wpilib.org/en/stable/docs/software/examples-tutorials/wpilib-examples.html)
+- [Discussion Forum Focused on FRC](https://www.chiefdelphi.com/)
 
 # Concepts to Learn (Ordered)
 
@@ -21,9 +21,9 @@ Note: Please listen to your programming captain. This is my opinion on the order
 
 # Additional Resources
 
-[FRC 5549 (2020) - Java Command-based Rewrite](https://github.com/dylantknguyen/FRC5549-2020-Java)
-[FRC 5549 (2020) - Python](https://github.com/FRC5549Robotics/5549-2020)
-[FRC 5549 (2019) - Python](https://github.com/FRC5549Robotics/5549-2019)
+- [FRC 5549 (2020) - Java Command-based Rewrite](https://github.com/dylantknguyen/FRC5549-2020-Java)
+- [FRC 5549 (2020) - Python](https://github.com/FRC5549Robotics/5549-2020)
+- [FRC 5549 (2019) - Python](https://github.com/FRC5549Robotics/5549-2019)
 
 # Contact
 
